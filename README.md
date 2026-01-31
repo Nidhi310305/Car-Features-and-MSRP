@@ -49,6 +49,6 @@ The project was developed as part of the **CSE101 coursework**, focusing on expl
 ## ⚙️ How to Run
 
 ```bash
-git clone https://github.com/<Nidhi310305>/Car-Features-and-MSRP
+git clone https://github.com/Nidhi310305/Car-Features-and-MSRP
 cd Car-Features-and-MSRP
 pip install -r requirements.txt
