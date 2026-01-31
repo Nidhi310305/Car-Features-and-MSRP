@@ -20,7 +20,7 @@ The project was developed as part of the **CSE101 coursework**, focusing on expl
 
 ---
 
-## 🧠 Key Analysis Performed
+## 🧠 Key Analysis performed
 - Exploratory Data Analysis (EDA)
 - Outlier detection on MSRP and engine power
 - Feature-wise comparison with pricing
